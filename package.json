@@ -1,0 +1,22 @@
+{
+  "name": "meal_finder",
+  "version": "1.0.0",
+  "description": "Mini JS app allows you to find your recepies with the help of MealDB API and the UI",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Novailoveyou/Meal-Finder.git"
+  },
+  "author": "Nover",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Novailoveyou/Meal-Finder/issues"
+  },
+  "homepage": "https://novailoveyou.github.io/Meal-Finder",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
